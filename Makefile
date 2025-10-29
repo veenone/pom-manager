@@ -4,7 +4,7 @@
 # Variables
 BINARY_NAME_GUI=pom-manager-gui
 BINARY_NAME_CLI=pom-manager-cli
-VERSION=0.1.0-MVP
+VERSION=1.0.0
 BUILD_DIR=build
 GO=go
 GOFLAGS=-v
